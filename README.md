@@ -29,5 +29,3 @@ This project explores the **Train dataset** using Python, focusing on data manip
 - **Extended Analysis**: Exploring additional relationships within the dataset.  
 - **Advanced Processing**: Applying further statistical techniques for trend identification.  
 
-🔗 **Explore the Full Project on GitHub**  
-[GitHub Repository Link]  
